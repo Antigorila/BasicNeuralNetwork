@@ -1,0 +1,601 @@
+terulet_m2,szobak,kerulet,emelet,lift,epitesi_ev,allapot,futes,erkely,nm_ar_ft
+54,1,III,9,igen,1907,felújított,hőszivattyú,igen,1168000
+58,1,XVIII,5,igen,1894,újszerű,távfűtés,nem,834000
+55,2,XVI,6,igen,1923,közepes,gáz cirkó,igen,723000
+63,2,XI,2,igen,1891,közepes,gáz cirkó,igen,1195000
+100,3,X,0,nem,1961,felújított,távfűtés,igen,588000
+24,1,XX,,igen,1990,felújított,gáz cirkó,igen,1019000
+55,2,II,5,igen,1906,közepes,távfűtés,nem,1276000
+64,3,XVII,3,igen,1981,felújított,távfűtés,nem,638000
+67,2,V,7,igen,1995,felújítandó,elektromos,igen,1383000
+53,1,III,0,igen,2006,felújítandó,gáz cirkó,igen,707000
+32,1,XIII,0,igen,1990,felújítandó,hőszivattyú,igen,960000
+67,2,XXIII,2,nem,1969,felújítandó,távfűtés,nem,360000
+110,4,XVII,4,igen,2006,felújított,gáz cirkó,igen,692000
+35,1,XVIII,4,igen,1917,közepes,elektromos,igen,758000
+81,3,XVII,2,nem,1965,közepes,távfűtés,nem,512000
+53,3,XIX,3,igen,1919,közepes,távfűtés,nem,701000
+59,2,XII,3,igen,1961,közepes,hőszivattyú,igen,1277000
+42,3,III,5,igen,1977,közepes,távfűtés,nem,813000
+53,2,XX,6,igen,1891,felújítandó,elektromos,nem,586000
+95,3,XI,9,igen,2005,felújított,gáz cirkó,igen,1321000
+74,3,XII,8,igen,1893,felújítandó,távfűtés,nem,1185000
+110,3,IX,3,nem,1932,felújított,gáz cirkó,nem,1073000
+91,3,V,9,igen,1930,felújítandó,gáz cirkó,nem,1344000
+70,3,XXII,5,igen,1982,felújított,távfűtés,igen,651000
+110,4,XVIII,2,igen,1916,felújított,távfűtés,nem,652000
+70,2,XV,3,igen,1989,felújítandó,távfűtés,igen,529000
+80,3,X,8,igen,1899,felújítandó,hőszivattyú,nem,623000
+54,3,XIX,9,igen,2014,újszerű,távfűtés,igen,831000
+61,3,XIII,4,igen,2023,újszerű,hőszivattyú,igen,1980000
+47,2,XI,1,nem,1966,felújított,távfűtés,nem,1364000
+85,4,XI,2,nem,1980,felújítandó,gáz cirkó,nem,840000
+40,1,VI,1,igen,2022,újszerű,gáz cirkó,igen,2266000
+79,3,III,7,igen,2021,újszerű,hőszivattyú,nem,1482000
+56,2,XIII,5,nem,1974,felújított,gáz cirkó,nem,949000
+90,3,XXI,4,nem,2020,újszerű,hőszivattyú,igen,815000
+78,2,II,7,igen,2025,újszerű,hőszivattyú,igen,2045000
+113,4,XX,9,igen,1995,felújított,gáz cirkó,igen,721000
+77,4,XX,8,igen,1961,felújítandó,elektromos,igen,435000
+35,1,VII,1,nem,1940,közepes,elektromos,igen,1251000
+59,2,XV,6,igen,1944,felújítandó,gáz cirkó,nem,597000
+40,1,IV,9,igen,1985,közepes,távfűtés,nem,674000
+50,2,XVIII,8,igen,1977,felújított,gáz cirkó,igen,705000
+102,4,XVII,3,igen,1982,közepes,távfűtés,nem,476000
+75,3,IX,4,igen,1977,felújítandó,távfűtés,nem,635000
+47,2,II,9,igen,1970,felújított,távfűtés,igen,1403000
+42,2,XXIII,0,igen,1996,közepes,gáz cirkó,igen,550000
+61,2,XI,5,igen,1897,közepes,távfűtés,nem,1209000
+39,2,XXI,1,igen,1891,közepes,gáz cirkó,nem,752000
+47,1,XVI,9,igen,2005,felújítandó,gáz cirkó,igen,720000
+67,2,XVIII,0,igen,2014,felújított,gáz cirkó,igen,659000
+90,4,XVIII,0,igen,2019,újszerű,hőszivattyú,igen,915000
+74,3,V,3,igen,2024,újszerű,gáz cirkó,nem,2351000
+27,1,IX,2,igen,2023,újszerű,hőszivattyú,nem,1811000
+67,3,XI,5,igen,,közepes,gáz cirkó,igen,1315000
+62,2,XII,3,igen,1988,felújított,távfűtés,igen,1504000
+69,3,II,3,igen,1937,közepes,gáz cirkó,igen,1621000
+106,4,XIII,6,igen,1960,felújított,távfűtés,nem,936000
+29,1,IV,6,igen,2023,újszerű,gáz cirkó,nem,1451000
+49,2,XVIII,10,igen,1931,felújítandó,hőszivattyú,nem,628000
+74,1,XVI,5,nem,1963,felújított,gáz cirkó,igen,633000
+34,1,XXII,6,igen,1943,közepes,gáz cirkó,nem,887000
+101,2,XVIII,7,igen,1912,újszerű,távfűtés,igen,726000
+68,2,IX,1,igen,1936,felújítandó,gáz cirkó,nem,791000
+81,3,XXIII,7,igen,1892,közepes,távfűtés,igen,544000
+49,2,X,9,igen,2020,újszerű,hőszivattyú,nem,1179000
+80,2,VIII,3,igen,1986,közepes,gáz cirkó,igen,782000
+87,3,XXI,1,igen,2011,felújított,elektromos,igen,715000
+65,3,IX,3,igen,2016,közepes,gáz cirkó,nem,980000
+65,2,II,3,igen,1943,felújítandó,hőszivattyú,nem,1301000
+66,3,XI,6,igen,1911,közepes,gáz cirkó,igen,1176000
+44,2,XIX,9,igen,2007,felújított,gáz cirkó,nem,849000
+57,2,V,6,igen,1913,felújított,gáz cirkó,nem,2146000
+57,3,XI,1,nem,2021,újszerű,hőszivattyú,igen,2172000
+69,3,III,3,igen,1938,közepes,távfűtés,nem,856000
+85,3,XVI,7,igen,2007,felújítandó,gáz cirkó,nem,571000
+41,1,XI,3,igen,2017,felújított,távfűtés,igen,1388000
+57,2,VIII,6,igen,1937,felújított,hőszivattyú,nem,1317000
+101,3,VI,7,igen,1939,közepes,gáz cirkó,nem,1235000
+46,2,XIII,3,igen,2023,újszerű,gáz cirkó,igen,1905000
+45,1,XVI,7,igen,1913,felújítandó,gáz cirkó,nem,644000
+64,3,XXII,4,igen,1988,felújított,elektromos,igen,623000
+81,3,XI,1,nem,1977,felújítandó,távfűtés,igen,835000
+60,2,IV,4,nem,1930,felújítandó,gáz cirkó,nem,624000
+96,3,XX,4,igen,2018,közepes,távfűtés,igen,539000
+81,3,XV,0,nem,1998,közepes,gáz cirkó,igen,612000
+81,3,XVII,9,igen,1973,újszerű,gáz cirkó,igen,702000
+73,2,III,5,nem,1998,közepes,gáz cirkó,igen,810000
+136,4,VIII,0,nem,1904,felújított,hőszivattyú,igen,1148000
+56,3,XVIII,9,igen,1910,felújított,gáz cirkó,nem,817000
+30,1,XX,9,igen,1981,felújított,gáz cirkó,nem,704000
+105,3,XI,0,nem,2022,újszerű,gáz cirkó,igen,1541000
+51,2,XIX,1,nem,,közepes,távfűtés,igen,751000
+62,2,XX,4,igen,1932,közepes,gáz cirkó,igen,669000
+95,3,IX,5,igen,1971,felújítandó,távfűtés,igen,671000
+34,1,XXI,7,nem,2007,közepes,gáz cirkó,igen,747000
+39,2,VII,4,igen,1921,felújított,távfűtés,nem,1310000
+34,1,VI,6,igen,1983,közepes,távfűtés,nem,1239000
+45,2,XVI,0,igen,2008,közepes,hőszivattyú,igen,762000
+70,2,XV,7,nem,1971,felújítandó,távfűtés,nem,419000
+72,3,IV,10,igen,1935,közepes,gáz cirkó,nem,782000
+66,2,XX,5,igen,1943,felújított,hőszivattyú,igen,793000
+37,1,V,5,igen,1971,közepes,távfűtés,igen,1690000
+27,1,XIX,3,nem,1987,felújított,gáz cirkó,igen,628000
+61,3,I,10,nem,2020,újszerű,hőszivattyú,nem,2201000
+51,3,XIX,0,igen,1971,felújított,távfűtés,igen,543000
+70,3,XIX,3,igen,1993,közepes,gáz cirkó,igen,707000
+77,3,XVIII,1,igen,2020,újszerű,hőszivattyú,igen,1068000
+63,2,XVI,9,nem,1967,felújítandó,elektromos,nem,456000
+78,3,XI,5,igen,1988,közepes,távfűtés,igen,870000
+65,2,XVII,10,igen,2023,újszerű,hőszivattyú,igen,934000
+72,3,VII,7,igen,1899,felújított,gáz cirkó,igen,1224000
+47,2,XVIII,6,igen,2000,felújítandó,gáz cirkó,nem,628000
+56,2,XIII,5,igen,1999,felújított,hőszivattyú,igen,1249000
+64,2,XI,2,igen,1918,felújítandó,távfűtés,igen,1055000
+80,3,XII,6,nem,1985,közepes,távfűtés,nem,1043000
+52,2,XIV,7,igen,1899,újszerű,távfűtés,igen,1156000
+72,3,I,10,igen,1902,közepes,távfűtés,igen,1588000
+55,2,IV,6,igen,1983,felújított,távfűtés,igen,742000
+58,2,VI,10,igen,,közepes,hőszivattyú,igen,1292000
+80,3,III,10,nem,2005,felújított,távfűtés,igen,764000
+30,1,XI,5,igen,2024,újszerű,gáz cirkó,igen,2205000
+38,2,XVI,4,igen,2017,felújított,gáz cirkó,igen,913000
+36,1,XVI,1,igen,1899,felújítandó,gáz cirkó,igen,753000
+27,2,XI,2,igen,1941,felújított,gáz cirkó,igen,1753000
+47,1,XX,9,igen,1941,felújítandó,gáz cirkó,nem,717000
+78,2,XIV,1,igen,1896,újszerű,gáz cirkó,nem,1086000
+54,1,II,4,igen,2020,újszerű,hőszivattyú,igen,2522000
+64,2,XVIII,7,igen,1972,felújítandó,távfűtés,igen,429000
+88,3,XIV,2,nem,1911,felújított,gáz cirkó,nem,1026000
+95,3,XV,10,igen,2011,felújítandó,gáz cirkó,igen,579000
+59,2,XIV,7,nem,1988,közepes,távfűtés,igen,755000
+96,4,XIII,0,nem,1893,felújított,gáz cirkó,nem,1099000
+62,2,III,2,igen,1908,felújítandó,hőszivattyú,nem,856000
+45,2,XIII,8,igen,1986,felújítandó,távfűtés,nem,954000
+49,2,XIX,9,igen,1992,közepes,,nem,755000
+36,2,VII,10,igen,1934,felújítandó,gáz cirkó,nem,1074000
+44,1,XIV,9,igen,2020,újszerű,gáz cirkó,igen,1877000
+53,2,I,0,igen,2019,újszerű,hőszivattyú,,2206000
+79,2,VIII,8,igen,2014,közepes,távfűtés,igen,922000
+110,4,XI,1,nem,1918,közepes,gáz cirkó,nem,1170000
+37,1,XXIII,0,igen,1906,felújítandó,gáz cirkó,nem,560000
+69,3,V,7,igen,2020,újszerű,hőszivattyú,nem,2529000
+42,2,VII,5,nem,1893,felújított,gáz cirkó,igen,1277000
+71,3,X,7,nem,1974,felújítandó,távfűtés,nem,422000
+57,2,XXIII,9,igen,1999,közepes,távfűtés,igen,543000
+32,1,XX,0,igen,1896,felújított,elektromos,nem,921000
+83,3,I,5,igen,1990,közepes,gáz cirkó,igen,1497000
+49,2,VI,9,igen,2020,újszerű,gáz cirkó,igen,2042000
+50,2,XIX,4,igen,2007,közepes,hőszivattyú,igen,790000
+41,1,II,5,igen,1988,felújítandó,távfűtés,nem,1128000
+48,2,XX,5,igen,2023,újszerű,hőszivattyú,igen,1117000
+70,3,VII,9,nem,1984,újszerű,elektromos,igen,822000
+56,2,XXII,0,igen,2007,újszerű,távfűtés,igen,835000
+67,3,VII,9,igen,1993,felújítandó,gáz cirkó,igen,961000
+68,3,X,8,nem,1998,közepes,gáz cirkó,nem,670000
+95,3,XVI,8,igen,1922,felújítandó,távfűtés,igen,550000
+53,2,III,4,igen,1908,közepes,távfűtés,igen,946000
+36,1,XIII,5,nem,1929,közepes,hőszivattyú,nem,1189000
+87,3,XII,4,nem,1979,felújított,távfűtés,igen,1292000
+53,2,XIX,2,igen,,felújítandó,gáz cirkó,igen,526000
+89,3,XXIII,9,igen,1961,újszerű,gáz cirkó,igen,578000
+69,3,XVI,5,igen,1975,felújítandó,távfűtés,igen,554000
+57,1,X,7,igen,2016,felújítandó,gáz cirkó,igen,650000
+68,2,X,1,igen,2025,újszerű,hőszivattyú,igen,1013000
+119,4,X,8,igen,1929,felújított,távfűtés,igen,686000
+124,6,XIX,7,igen,1991,közepes,gáz cirkó,nem,704000
+61,1,VIII,10,igen,1995,közepes,távfűtés,nem,869000
+63,3,IV,1,nem,1972,felújítandó,távfűtés,nem,546000
+87,3,VIII,5,igen,1907,felújítandó,hőszivattyú,nem,859000
+45,2,I,5,igen,2010,közepes,gáz cirkó,igen,1800000
+67,2,III,5,igen,2023,újszerű,hőszivattyú,nem,1473000
+59,2,III,0,igen,1991,felújított,gáz cirkó,nem,924000
+67,2,XVIII,5,igen,2019,újszerű,hőszivattyú,igen,966000
+45,2,XVII,3,igen,2022,újszerű,hőszivattyú,igen,1169000
+34,1,XVII,6,igen,1969,felújított,távfűtés,igen,681000
+29,2,XI,2,igen,1985,felújítandó,távfűtés,igen,851000
+41,1,XVII,4,igen,1970,felújítandó,távfűtés,igen,544000
+51,2,IV,6,igen,2020,újszerű,hőszivattyú,igen,1180000
+54,1,XXI,0,nem,1922,felújított,gáz cirkó,nem,709000
+118,4,XII,8,igen,1966,felújított,távfűtés,igen,1450000
+88,4,XXII,7,nem,2024,újszerű,hőszivattyú,igen,993000
+43,1,IV,0,igen,1942,közepes,távfűtés,igen,834000
+68,2,XII,,igen,1993,felújítandó,gáz cirkó,nem,1210000
+52,1,XVII,9,igen,1966,közepes,távfűtés,,604000
+54,2,XII,3,igen,2023,újszerű,hőszivattyú,igen,2321000
+64,1,XI,9,igen,2020,újszerű,hőszivattyú,igen,1905000
+75,2,IV,5,igen,1927,felújítandó,távfűtés,nem,655000
+53,2,IX,3,igen,2009,közepes,gáz cirkó,nem,1101000
+87,4,VI,3,igen,1930,közepes,gáz cirkó,igen,1287000
+40,3,VII,7,igen,1971,közepes,távfűtés,nem,982000
+60,2,XVI,1,igen,2015,felújított,távfűtés,igen,953000
+149,6,XV,,igen,2017,közepes,gáz cirkó,igen,773000
+65,2,XIV,3,igen,1920,újszerű,gáz cirkó,igen,1188000
+99,3,IX,1,igen,1939,felújított,gáz cirkó,igen,1226000
+62,2,XXIII,3,igen,2016,felújított,távfűtés,igen,705000
+74,3,III,5,igen,1964,felújított,távfűtés,igen,777000
+59,2,VIII,7,igen,1988,felújított,távfűtés,nem,823000
+57,2,III,0,nem,1928,felújított,távfűtés,igen,1096000
+46,1,VIII,9,igen,1923,közepes,távfűtés,nem,1061000
+70,2,XXIII,9,igen,2019,újszerű,hőszivattyú,igen,886000
+45,2,IX,7,nem,1922,közepes,gáz cirkó,nem,1049000
+76,3,XXI,10,igen,1984,felújítandó,gáz cirkó,nem,371000
+88,3,XII,4,igen,2024,újszerű,gáz cirkó,nem,2077000
+68,2,XVII,9,igen,1925,felújított,gáz cirkó,nem,689000
+54,2,XI,7,igen,1993,felújítandó,gáz cirkó,nem,1162000
+70,3,VII,6,igen,1908,közepes,gáz cirkó,igen,1228000
+54,2,XVIII,1,igen,2020,újszerű,hőszivattyú,igen,1133000
+83,4,XXIII,6,igen,2003,felújítandó,távfűtés,igen,486000
+32,2,VII,9,igen,2022,újszerű,hőszivattyú,igen,1895000
+53,2,XVIII,10,igen,1895,felújítandó,távfűtés,nem,613000
+30,2,VII,4,igen,1975,felújított,gáz cirkó,igen,1345000
+36,2,XVII,2,igen,2013,felújított,,nem,887000
+97,4,XIX,8,igen,1938,felújítandó,gáz cirkó,nem,685000
+82,3,XI,0,nem,1931,felújítandó,elektromos,nem,772000
+47,2,XVII,1,nem,1912,közepes,elektromos,nem,639000
+35,2,VII,6,igen,2024,újszerű,gáz cirkó,,1909000
+22,1,II,10,nem,2017,felújítandó,távfűtés,igen,1343000
+50,2,III,3,igen,1983,újszerű,távfűtés,igen,978000
+140,4,XI,4,igen,2004,felújítandó,távfűtés,igen,950000
+70,2,XXI,3,igen,1971,felújított,távfűtés,igen,612000
+49,2,III,4,igen,1969,felújítandó,távfűtés,igen,666000
+71,3,XI,0,igen,1960,újszerű,gáz cirkó,igen,1031000
+35,2,XVII,6,igen,1984,felújítandó,hőszivattyú,igen,552000
+54,2,V,6,igen,1919,közepes,gáz cirkó,igen,1802000
+62,2,XVII,3,igen,2019,újszerű,hőszivattyú,igen,940000
+58,2,VIII,2,igen,2012,felújítandó,gáz cirkó,igen,896000
+79,3,XIX,8,igen,1935,felújított,gáz cirkó,nem,775000
+68,2,XIV,2,nem,1973,közepes,távfűtés,igen,721000
+76,3,XIII,0,igen,1915,közepes,hőszivattyú,nem,1157000
+47,1,V,0,igen,2025,újszerű,hőszivattyú,nem,2579000
+82,3,XI,9,igen,2019,újszerű,hőszivattyú,igen,1953000
+106,3,XX,4,igen,2019,újszerű,hőszivattyú,igen,988000
+43,2,I,1,nem,1926,felújítandó,gáz cirkó,nem,1533000
+44,2,XVIII,9,igen,1911,felújítandó,gáz cirkó,nem,620000
+96,3,XII,1,nem,1900,közepes,távfűtés,igen,1421000
+56,2,XVII,3,igen,1900,felújítandó,gáz cirkó,nem,618000
+98,3,XVI,0,igen,1928,újszerű,gáz cirkó,nem,739000
+51,2,X,7,igen,1904,közepes,távfűtés,igen,786000
+100,4,VIII,7,igen,2019,újszerű,hőszivattyú,igen,1369000
+63,2,XV,8,igen,1924,közepes,hőszivattyú,igen,802000
+66,2,IV,2,nem,1908,közepes,távfűtés,nem,706000
+104,3,XIV,3,igen,2012,közepes,elektromos,igen,885000
+53,1,III,10,igen,1988,közepes,távfűtés,igen,811000
+43,1,XV,9,igen,2000,közepes,elektromos,nem,795000
+51,1,XV,0,nem,1976,közepes,távfűtés,igen,514000
+70,3,II,7,igen,2019,újszerű,hőszivattyú,igen,2061000
+35,1,XVIII,,nem,1967,újszerű,távfűtés,igen,647000
+75,3,X,6,igen,1974,felújítandó,távfűtés,igen,451000
+50,2,XIX,7,igen,1999,közepes,gáz cirkó,igen,706000
+90,3,I,0,igen,1979,felújítandó,távfűtés,igen,1009000
+26,1,V,0,nem,1905,közepes,elektromos,nem,1757000
+46,2,XII,0,nem,1988,felújított,távfűtés,nem,1324000
+33,2,V,1,nem,1904,felújítandó,elektromos,nem,1622000
+45,1,VIII,10,nem,2011,közepes,gáz cirkó,nem,903000
+65,1,XVI,6,igen,1906,közepes,gáz cirkó,nem,832000
+56,2,IV,8,igen,1918,felújítandó,távfűtés,nem,633000
+55,2,XVI,3,nem,1896,újszerű,gáz cirkó,igen,759000
+57,2,III,10,igen,2009,közepes,gáz cirkó,nem,1014000
+64,3,V,2,nem,1940,felújított,gáz cirkó,igen,1971000
+42,1,XIV,9,igen,2002,közepes,gáz cirkó,igen,1238000
+77,3,XIX,0,nem,2024,újszerű,hőszivattyú,igen,964000
+76,3,IV,0,nem,1893,közepes,hőszivattyú,igen,778000
+69,3,VII,0,igen,1990,közepes,távfűtés,nem,1041000
+73,3,XXII,8,igen,1913,felújított,gáz cirkó,nem,815000
+67,3,XXIII,2,nem,1944,közepes,távfűtés,nem,532000
+122,4,XIV,4,igen,2002,közepes,elektromos,igen,878000
+58,2,XI,5,nem,2019,újszerű,hőszivattyú,nem,1735000
+54,2,VIII,8,igen,1944,közepes,gáz cirkó,nem,941000
+46,2,XV,3,igen,1963,felújított,gáz cirkó,,677000
+42,2,XIV,0,nem,1915,felújított,hőszivattyú,nem,961000
+39,1,VII,4,igen,1967,felújított,elektromos,igen,1196000
+44,1,I,3,igen,1975,felújított,gáz cirkó,igen,1634000
+59,2,IV,8,igen,1980,közepes,távfűtés,igen,630000
+67,2,XXIII,8,igen,1978,közepes,távfűtés,nem,408000
+61,2,X,1,nem,1891,felújítandó,gáz cirkó,igen,610000
+46,1,XII,8,igen,1993,felújított,elektromos,igen,1716000
+82,2,XI,0,igen,2014,felújított,távfűtés,igen,1117000
+78,2,XIX,6,igen,2001,közepes,gáz cirkó,nem,688000
+57,3,II,,igen,1891,felújítandó,hőszivattyú,nem,1453000
+48,3,II,3,nem,1962,közepes,elektromos,nem,1265000
+73,2,VII,5,igen,1973,közepes,gáz cirkó,igen,930000
+64,2,XII,3,igen,1929,felújított,,nem,1805000
+36,1,XVI,8,igen,1935,felújítandó,elektromos,nem,668000
+59,1,XII,10,igen,1989,felújított,távfűtés,igen,1277000
+66,2,XI,8,nem,2011,felújított,hőszivattyú,igen,1236000
+44,1,XXII,4,igen,1924,újszerű,távfűtés,nem,868000
+64,2,IV,5,igen,2015,felújítandó,gáz cirkó,nem,660000
+36,1,XIV,4,igen,1976,újszerű,gáz cirkó,igen,1065000
+96,3,XIII,8,igen,1990,felújított,elektromos,nem,986000
+93,3,XI,6,igen,1982,felújított,hőszivattyú,igen,1277000
+55,2,XIX,5,igen,1974,felújítandó,távfűtés,igen,512000
+68,3,VII,4,igen,1984,közepes,távfűtés,igen,809000
+26,1,XXII,4,igen,2022,újszerű,hőszivattyú,igen,1524000
+40,2,VIII,6,nem,1976,közepes,gáz cirkó,igen,799000
+54,2,XIII,7,igen,1964,közepes,távfűtés,igen,1074000
+41,2,XII,4,nem,1978,közepes,távfűtés,igen,1176000
+77,3,XX,8,igen,1993,közepes,elektromos,igen,600000
+121,4,XI,9,igen,1920,felújítandó,hőszivattyú,igen,1093000
+40,1,VII,4,igen,1984,közepes,távfűtés,nem,1055000
+45,2,I,9,igen,1985,felújítandó,gáz cirkó,nem,1311000
+65,3,IX,1,igen,2023,újszerű,hőszivattyú,igen,1678000
+105,4,XX,10,nem,,újszerű,gáz cirkó,igen,591000
+39,2,I,3,igen,1964,közepes,távfűtés,igen,1549000
+65,3,XXI,6,igen,2022,újszerű,gáz cirkó,igen,961000
+113,4,XIII,3,igen,1971,felújítandó,távfűtés,igen,770000
+34,2,IV,4,igen,1913,közepes,hőszivattyú,igen,890000
+38,2,VII,3,igen,1891,felújított,gáz cirkó,igen,1582000
+52,3,XIII,7,igen,1900,közepes,hőszivattyú,nem,1293000
+50,1,VIII,0,nem,1939,felújítandó,távfűtés,nem,793000
+80,2,III,9,igen,1962,felújítandó,távfűtés,nem,683000
+65,3,XVI,9,igen,1998,felújítandó,hőszivattyú,,614000
+32,1,XVI,6,igen,1999,felújított,gáz cirkó,igen,1132000
+72,2,III,6,igen,1907,felújított,távfűtés,nem,1004000
+49,2,VII,7,igen,1960,közepes,távfűtés,igen,1004000
+94,4,VI,2,nem,1928,közepes,elektromos,nem,1033000
+48,2,XVI,8,igen,2019,újszerű,hőszivattyú,nem,1075000
+48,1,XVII,2,nem,1917,közepes,távfűtés,nem,667000
+73,2,XVII,7,nem,1970,felújított,gáz cirkó,igen,545000
+78,2,XXII,3,igen,1929,felújított,gáz cirkó,nem,875000
+70,2,XVIII,8,igen,1964,közepes,hőszivattyú,igen,570000
+33,2,VIII,8,nem,1966,felújított,hőszivattyú,igen,889000
+72,3,III,2,igen,1993,közepes,hőszivattyú,igen,875000
+42,2,XV,6,igen,1905,felújított,gáz cirkó,nem,1028000
+65,2,XXII,5,nem,2021,újszerű,gáz cirkó,igen,938000
+36,1,XXIII,3,nem,1985,közepes,távfűtés,igen,545000
+70,2,VI,6,igen,1994,felújítandó,elektromos,igen,921000
+45,1,VI,10,igen,2015,felújítandó,gáz cirkó,igen,1165000
+38,1,I,0,igen,2019,újszerű,hőszivattyú,nem,2658000
+77,2,IV,10,nem,1922,közepes,gáz cirkó,igen,635000
+65,1,XIII,9,nem,1923,közepes,,igen,1191000
+48,1,XIII,5,igen,1901,közepes,gáz cirkó,nem,1273000
+100,4,IX,6,igen,1906,közepes,gáz cirkó,nem,1048000
+51,2,VIII,4,igen,1984,újszerű,távfűtés,nem,970000
+61,3,XX,1,igen,2023,újszerű,hőszivattyú,igen,1136000
+66,3,XI,6,igen,2024,újszerű,hőszivattyú,igen,2115000
+48,2,XIX,8,igen,1987,közepes,távfűtés,igen,626000
+71,2,XXIII,2,igen,1974,felújított,távfűtés,igen,595000
+50,2,VIII,7,igen,2022,újszerű,hőszivattyú,nem,1535000
+52,2,V,8,igen,2023,újszerű,hőszivattyú,igen,2976000
+97,3,XXII,8,igen,1892,felújított,távfűtés,nem,806000
+42,2,XV,3,igen,1988,felújítandó,távfűtés,nem,503000
+26,1,VII,4,igen,2008,közepes,távfűtés,nem,1290000
+105,3,XV,4,nem,1942,felújított,elektromos,nem,609000
+146,5,XII,9,igen,1988,felújított,távfűtés,nem,1203000
+52,1,XXI,9,igen,2022,újszerű,gáz cirkó,igen,1025000
+30,1,VI,4,igen,2024,újszerű,gáz cirkó,igen,2207000
+54,2,XXIII,10,igen,2021,újszerű,hőszivattyú,igen,951000
+54,2,XXII,6,igen,2017,felújítandó,gáz cirkó,nem,683000
+56,2,V,4,igen,1901,felújítandó,távfűtés,nem,1480000
+41,2,IV,0,igen,1915,felújítandó,távfűtés,igen,671000
+73,3,XIII,6,igen,1981,közepes,távfűtés,igen,939000
+72,3,II,7,igen,,közepes,gáz cirkó,igen,1178000
+36,2,VII,10,igen,1974,felújított,hőszivattyú,igen,1587000
+77,2,XI,7,igen,1960,közepes,hőszivattyú,nem,910000
+123,5,XXIII,0,nem,1963,felújítandó,távfűtés,igen,343000
+64,2,XXIII,6,igen,2008,felújított,elektromos,nem,585000
+53,2,IV,8,igen,1933,felújítandó,gáz cirkó,nem,812000
+57,2,XXI,5,igen,1918,felújított,távfűtés,nem,644000
+74,2,III,4,igen,1920,felújítandó,hőszivattyú,igen,889000
+33,1,XVIII,8,igen,1913,közepes,elektromos,nem,757000
+64,2,XX,6,nem,2020,újszerű,gáz cirkó,igen,930000
+52,1,XXI,7,nem,1979,közepes,távfűtés,igen,519000
+115,5,VI,5,nem,1924,felújított,elektromos,nem,1148000
+56,3,XXI,3,igen,2006,felújított,távfűtés,nem,673000
+108,3,III,5,igen,1969,felújítandó,gáz cirkó,nem,644000
+41,2,XII,10,igen,1944,felújított,gáz cirkó,nem,1717000
+74,2,XI,6,igen,1935,felújított,elektromos,nem,1254000
+67,2,VIII,7,igen,1894,újszerű,távfűtés,nem,1069000
+44,2,I,1,igen,2004,közepes,távfűtés,igen,1672000
+64,2,XVIII,10,igen,1911,közepes,hőszivattyú,nem,620000
+92,4,VIII,2,nem,1890,felújított,távfűtés,nem,1036000
+54,2,XVI,10,igen,1899,közepes,gáz cirkó,nem,688000
+33,2,X,4,igen,1962,közepes,gáz cirkó,nem,717000
+60,2,IX,10,igen,1909,felújítandó,távfűtés,nem,849000
+44,2,XXI,9,nem,1999,felújítandó,elektromos,igen,475000
+53,2,III,8,igen,1905,közepes,távfűtés,nem,1037000
+58,2,XVII,10,igen,1968,felújítandó,távfűtés,nem,478000
+33,1,XVIII,6,igen,1965,felújítandó,távfűtés,nem,595000
+34,1,IX,9,igen,1971,felújítandó,távfűtés,nem,994000
+71,3,VII,1,igen,1932,újszerű,elektromos,igen,1199000
+50,2,I,0,igen,2015,felújítandó,gáz cirkó,igen,1517000
+24,1,XXII,5,igen,2020,újszerű,hőszivattyú,nem,1254000
+79,4,XXII,8,igen,1923,közepes,távfűtés,nem,747000
+66,3,VI,8,igen,1940,felújítandó,gáz cirkó,nem,1025000
+47,1,I,5,nem,2024,újszerű,hőszivattyú,igen,2202000
+38,2,III,5,igen,1986,újszerű,távfűtés,igen,1107000
+80,3,II,6,igen,1942,közepes,távfűtés,nem,1467000
+68,2,XX,9,igen,1893,közepes,elektromos,nem,674000
+138,5,XXI,9,igen,2015,közepes,gáz cirkó,igen,607000
+70,3,IV,1,igen,1994,felújítandó,,igen,672000
+69,3,XVIII,6,igen,1977,közepes,távfűtés,nem,539000
+57,2,V,4,igen,2023,újszerű,,nem,2734000
+80,3,IX,8,igen,1987,felújítandó,,igen,764000
+75,2,XIV,5,igen,1904,közepes,elektromos,nem,869000
+93,2,XVII,10,igen,1964,felújítandó,távfűtés,igen,457000
+50,2,XXI,4,nem,1972,felújítandó,távfűtés,igen,375000
+52,2,II,7,igen,1908,közepes,gáz cirkó,nem,1559000
+51,2,V,1,nem,1901,közepes,gáz cirkó,igen,1702000
+79,2,VII,10,igen,1970,felújítandó,távfűtés,nem,760000
+101,4,VIII,1,igen,2007,felújítandó,gáz cirkó,nem,892000
+51,3,XXIII,4,igen,1897,felújítandó,távfűtés,igen,520000
+52,2,XVIII,,nem,1968,felújítandó,elektromos,nem,417000
+67,2,VIII,10,igen,1980,felújított,távfűtés,igen,952000
+55,2,XXIII,5,igen,1967,újszerű,távfűtés,nem,496000
+84,3,XII,5,igen,2004,közepes,gáz cirkó,nem,1380000
+27,1,XII,0,igen,2007,közepes,távfűtés,igen,1681000
+45,2,X,10,igen,2006,felújított,távfűtés,igen,708000
+46,2,IV,0,igen,1910,felújított,gáz cirkó,igen,836000
+27,1,XXII,0,nem,1984,felújítandó,távfűtés,igen,646000
+43,1,I,5,igen,1986,felújítandó,távfűtés,nem,1296000
+44,1,V,0,igen,1906,közepes,gáz cirkó,nem,1792000
+56,2,VI,1,igen,1897,közepes,gáz cirkó,nem,1344000
+89,3,VII,6,igen,1930,felújítandó,gáz cirkó,igen,969000
+55,1,IV,7,igen,1975,közepes,távfűtés,nem,654000
+42,2,I,3,igen,1965,közepes,távfűtés,igen,1406000
+59,2,XVI,8,nem,1927,közepes,távfűtés,nem,645000
+87,3,XXIII,6,igen,2011,közepes,gáz cirkó,igen,536000
+43,1,III,2,igen,2025,újszerű,hőszivattyú,igen,1796000
+44,1,VII,7,igen,1935,közepes,hőszivattyú,igen,1488000
+73,3,XII,6,igen,2020,újszerű,hőszivattyú,igen,2572000
+56,1,XXII,8,igen,1920,felújítandó,gáz cirkó,igen,695000
+75,3,XVI,1,igen,2021,újszerű,gáz cirkó,nem,978000
+60,2,XVIII,2,nem,2024,újszerű,hőszivattyú,nem,1126000
+77,3,XIV,3,igen,1893,felújítandó,elektromos,igen,796000
+42,1,X,3,igen,1994,közepes,gáz cirkó,igen,837000
+60,2,V,9,igen,2025,újszerű,hőszivattyú,igen,2605000
+56,2,XX,8,igen,2025,újszerű,hőszivattyú,igen,1141000
+39,2,XIX,5,igen,2022,újszerű,gáz cirkó,nem,1117000
+35,1,I,5,igen,1989,felújított,távfűtés,nem,1745000
+76,3,XVII,9,nem,1930,közepes,távfűtés,nem,586000
+53,1,II,4,igen,2018,közepes,távfűtés,igen,1701000
+42,2,XVII,2,igen,1985,felújítandó,távfűtés,igen,542000
+58,2,XIX,1,nem,1967,felújított,távfűtés,igen,616000
+89,3,IV,3,igen,1968,közepes,távfűtés,nem,577000
+27,1,X,7,igen,1984,felújítandó,távfűtés,igen,711000
+36,1,III,5,igen,1893,felújított,távfűtés,nem,1138000
+43,2,XIV,4,igen,1993,közepes,távfűtés,igen,1019000
+100,4,XXII,5,igen,1937,felújítandó,gáz cirkó,nem,693000
+66,3,II,10,igen,2005,közepes,elektromos,nem,1414000
+78,2,X,10,igen,2013,felújított,távfűtés,igen,905000
+40,1,XXIII,1,nem,1960,újszerű,távfűtés,igen,613000
+41,2,VII,1,igen,1979,közepes,gáz cirkó,igen,1005000
+70,2,IV,2,igen,1906,újszerű,távfűtés,nem,942000
+61,2,XII,9,igen,2022,újszerű,hőszivattyú,igen,2232000
+73,3,XII,5,igen,2016,felújított,gáz cirkó,nem,1634000
+56,2,XVI,9,igen,1989,felújított,távfűtés,igen,698000
+66,3,VIII,7,igen,1919,közepes,gáz cirkó,nem,1065000
+63,3,XXII,6,igen,1936,felújított,gáz cirkó,nem,911000
+79,3,XII,3,igen,1967,közepes,távfűtés,igen,1236000
+80,3,VII,3,igen,2020,újszerű,hőszivattyú,nem,1592000
+34,3,XXIII,1,igen,2003,felújítandó,távfűtés,nem,628000
+27,1,XXII,5,igen,1920,felújított,gáz cirkó,,1373000
+85,3,XII,3,igen,2023,újszerű,gáz cirkó,nem,2223000
+91,3,I,3,igen,1973,közepes,gáz cirkó,igen,1261000
+42,2,XIV,0,igen,2020,újszerű,gáz cirkó,igen,1338000
+31,1,XIII,8,igen,1933,közepes,hőszivattyú,nem,1398000
+62,2,IV,10,igen,1966,felújítandó,gáz cirkó,igen,564000
+83,4,XV,5,nem,2019,újszerű,gáz cirkó,nem,827000
+113,4,XX,5,igen,1891,felújított,gáz cirkó,nem,724000
+72,2,III,10,igen,1990,közepes,gáz cirkó,igen,1062000
+53,2,XVII,5,igen,2020,újszerű,hőszivattyú,igen,1161000
+44,2,IV,6,igen,1944,felújított,gáz cirkó,nem,947000
+60,2,XVIII,4,igen,1912,közepes,hőszivattyú,igen,670000
+54,2,X,5,igen,2016,közepes,távfűtés,igen,804000
+42,1,I,5,igen,1921,felújított,távfűtés,nem,1912000
+123,5,XXIII,,igen,1935,felújított,elektromos,igen,526000
+112,5,IV,6,igen,,felújított,gáz cirkó,igen,720000
+89,3,XIV,5,igen,2018,közepes,elektromos,igen,900000
+43,1,V,0,nem,1905,újszerű,gáz cirkó,igen,1820000
+81,3,XXII,9,igen,1916,felújítandó,elektromos,nem,563000
+75,2,XVII,9,igen,2011,közepes,távfűtés,igen,607000
+70,2,XIX,2,nem,1967,felújítandó,távfűtés,igen,530000
+93,3,X,3,igen,1993,közepes,elektromos,igen,613000
+75,3,XI,10,igen,1974,felújított,távfűtés,igen,1022000
+78,2,XV,3,igen,2019,újszerű,hőszivattyú,igen,1113000
+75,3,XIX,8,igen,2005,közepes,elektromos,igen,638000
+68,2,XX,8,nem,1931,felújítandó,gáz cirkó,nem,542000
+32,1,I,9,igen,2020,újszerű,hőszivattyú,igen,2725000
+62,2,XVI,0,igen,1978,újszerű,távfűtés,igen,606000
+49,2,III,5,igen,1913,közepes,távfűtés,nem,1030000
+38,2,VII,6,nem,1893,felújítandó,gáz cirkó,nem,1021000
+108,4,XX,9,igen,2006,közepes,gáz cirkó,igen,692000
+110,3,VI,2,nem,1909,közepes,hőszivattyú,nem,1144000
+97,4,XIX,3,igen,1918,közepes,gáz cirkó,nem,640000
+66,3,XI,1,nem,1904,közepes,távfűtés,nem,1284000
+96,3,VI,8,igen,1978,felújított,távfűtés,igen,939000
+60,2,VIII,10,igen,1977,közepes,gáz cirkó,igen,933000
+64,2,XIII,1,igen,1973,közepes,távfűtés,igen,1049000
+41,2,XVIII,2,nem,1928,felújítandó,elektromos,nem,651000
+69,3,XIV,3,nem,1906,újszerű,elektromos,nem,871000
+61,2,XXII,9,igen,1974,közepes,távfűtés,nem,579000
+38,2,XX,4,igen,1974,közepes,gáz cirkó,igen,661000
+59,3,XVIII,3,nem,2017,felújítandó,gáz cirkó,igen,484000
+58,1,XIV,3,igen,1910,felújított,gáz cirkó,nem,1027000
+113,4,VII,6,nem,1892,felújított,távfűtés,igen,1086000
+82,3,X,4,igen,1898,felújítandó,gáz cirkó,nem,630000
+60,1,III,1,igen,1963,felújítandó,távfűtés,nem,617000
+65,2,IX,9,igen,1974,felújítandó,gáz cirkó,igen,838000
+61,3,XXII,4,igen,2009,felújított,elektromos,igen,852000
+56,1,X,2,igen,1984,újszerű,távfűtés,igen,804000
+41,2,III,8,igen,1980,közepes,hőszivattyú,igen,979000
+57,2,XV,8,nem,1982,közepes,távfűtés,igen,558000
+46,1,XXIII,1,nem,1914,felújított,hőszivattyú,nem,777000
+39,2,XX,0,nem,1970,felújított,gáz cirkó,igen,739000
+72,2,VII,0,nem,1943,felújítandó,,igen,835000
+69,3,XI,8,igen,1984,felújítandó,távfűtés,igen,845000
+32,1,XIII,6,igen,1895,közepes,gáz cirkó,nem,1401000
+57,3,VI,8,igen,1998,felújított,távfűtés,igen,1351000
+85,3,VII,6,igen,2019,újszerű,hőszivattyú,nem,1671000
+87,3,VI,4,nem,1898,felújított,gáz cirkó,nem,1195000
+86,3,XXIII,6,igen,1962,felújított,távfűtés,igen,522000
+61,1,XVIII,7,igen,2007,közepes,elektromos,igen,629000
+45,2,XX,4,igen,1896,közepes,távfűtés,nem,688000
+41,1,XIX,10,igen,1991,felújítandó,távfűtés,igen,745000
+68,2,XXIII,9,igen,1983,felújított,gáz cirkó,nem,551000
+69,2,III,8,igen,2023,újszerű,hőszivattyú,nem,1319000
+94,3,XXI,10,igen,2019,újszerű,hőszivattyú,nem,883000
+88,3,II,,igen,1944,felújítandó,gáz cirkó,nem,1085000
+57,2,XI,1,nem,1982,felújított,távfűtés,igen,1153000
+39,2,XIV,5,igen,1980,felújított,távfűtés,igen,981000
+54,2,IX,8,igen,1908,felújított,gáz cirkó,igen,1264000
+65,3,IV,8,igen,1931,felújítandó,távfűtés,nem,719000
+56,2,V,4,igen,2019,újszerű,gáz cirkó,nem,2384000
+49,3,XIX,3,igen,1893,felújított,gáz cirkó,igen,946000
+66,2,VIII,4,igen,1964,felújított,gáz cirkó,nem,1068000
+50,2,VIII,8,igen,2012,felújított,gáz cirkó,nem,1263000
+48,2,XXII,0,nem,1908,újszerű,gáz cirkó,nem,906000
+67,2,IV,3,igen,1971,újszerű,távfűtés,nem,661000
+52,3,XXII,2,nem,2024,újszerű,gáz cirkó,igen,1103000
+65,3,XXII,8,igen,1986,közepes,gáz cirkó,igen,630000
+66,3,XIV,5,igen,1920,közepes,távfűtés,igen,891000
+40,1,IV,0,nem,1890,felújított,gáz cirkó,nem,862000
+51,2,IV,2,igen,2020,újszerű,hőszivattyú,igen,1240000
+99,3,VII,0,nem,1922,felújítandó,gáz cirkó,nem,843000
+40,2,XIV,5,nem,1965,felújítandó,távfűtés,igen,695000
+29,2,IV,10,igen,1944,újszerű,gáz cirkó,igen,1034000
+31,1,XI,6,igen,1984,felújított,távfűtés,igen,1272000
+61,2,III,9,igen,2024,újszerű,hőszivattyú,igen,1482000
+61,3,XIII,8,igen,1976,közepes,elektromos,nem,897000
+58,3,I,9,igen,2022,újszerű,hőszivattyú,igen,2875000
+92,4,XVII,3,igen,1917,felújított,távfűtés,nem,670000
+24,1,II,10,igen,1971,közepes,távfűtés,igen,1292000
+69,2,V,2,nem,2019,újszerű,hőszivattyú,igen,2718000
+104,3,V,4,igen,1986,újszerű,távfűtés,igen,1613000
+40,1,XX,7,nem,1923,felújítandó,távfűtés,igen,588000
+53,1,II,3,igen,2025,újszerű,hőszivattyú,nem,2174000
+46,2,X,2,igen,1980,felújított,távfűtés,igen,816000
+44,2,XIV,1,igen,1975,felújított,távfűtés,igen,890000
+54,2,XII,0,igen,2022,újszerű,hőszivattyú,igen,2409000
+99,2,XVI,5,nem,1931,felújított,gáz cirkó,nem,698000
+114,3,XIX,10,igen,1915,felújítandó,gáz cirkó,igen,634000
+53,2,X,,nem,1939,felújított,távfűtés,nem,926000
+117,4,XX,4,igen,1976,felújítandó,távfűtés,nem,459000
+61,2,VIII,10,igen,1934,felújított,távfűtés,igen,1081000
+111,3,XXIII,8,igen,2001,felújított,elektromos,igen,629000
+58,3,XII,0,nem,1903,felújítandó,gáz cirkó,igen,1248000
+63,2,XVII,5,nem,,felújítandó,távfűtés,igen,493000
+68,3,XXI,1,nem,1920,felújított,gáz cirkó,nem,645000
+180,6,XIX,2,nem,1969,felújítandó,távfűtés,igen,445000
+81,4,XX,2,nem,1906,felújítandó,gáz cirkó,nem,575000
+47,2,XIII,6,igen,1999,közepes,hőszivattyú,igen,1372000
+84,3,I,2,nem,1965,újszerű,gáz cirkó,igen,1343000
+53,2,XII,2,nem,1976,közepes,távfűtés,nem,1315000
+51,2,V,2,igen,2019,újszerű,hőszivattyú,igen,2677000
+82,3,XXI,3,igen,1984,újszerű,távfűtés,igen,638000
+61,2,VI,7,igen,1927,közepes,hőszivattyú,nem,1256000
+66,3,VI,4,igen,2024,újszerű,gáz cirkó,igen,1683000
+60,2,VI,3,igen,1943,közepes,gáz cirkó,nem,1249000
+68,4,XV,5,igen,1917,közepes,távfűtés,igen,647000
+70,3,XIV,6,nem,1967,közepes,elektromos,nem,685000
+30,2,XXII,0,nem,1900,felújított,elektromos,nem,887000
+76,3,X,9,igen,1919,felújítandó,elektromos,igen,579000
+43,2,VII,10,igen,2005,felújított,gáz cirkó,igen,1491000
+36,1,II,6,igen,1916,felújítandó,gáz cirkó,nem,1427000
+59,2,I,6,igen,,közepes,távfűtés,igen,1432000
+62,2,IX,7,igen,2019,újszerű,hőszivattyú,igen,1756000
+47,2,XXII,4,igen,1969,közepes,gáz cirkó,igen,651000
+80,3,XIII,4,igen,2017,felújított,gáz cirkó,igen,1187000
+38,1,XXI,3,igen,1997,közepes,távfűtés,nem,730000
+52,1,III,1,igen,2019,újszerű,hőszivattyú,igen,1617000
+49,1,III,9,igen,1897,felújítandó,elektromos,nem,756000
+59,1,XX,3,igen,,felújított,elektromos,igen,726000
+66,2,III,3,igen,,közepes,távfűtés,igen,720000
+42,2,II,10,igen,1976,felújított,távfűtés,igen,1730000
+77,3,X,5,igen,1931,közepes,gáz cirkó,nem,744000
+61,1,XXII,6,igen,1975,felújítandó,távfűtés,igen,535000
+31,1,XVI,2,nem,1895,felújított,gáz cirkó,nem,1041000
+30,1,III,3,igen,2022,újszerű,hőszivattyú,igen,1607000
+60,3,XX,8,igen,1931,felújítandó,gáz cirkó,nem,582000
+56,1,XX,4,igen,1932,újszerű,elektromos,nem,794000
+58,2,XIX,1,nem,1936,felújítandó,távfűtés,nem,642000
+59,3,XXI,9,igen,1895,közepes,hőszivattyú,nem,668000
+65,3,VI,4,igen,1898,közepes,hőszivattyú,nem,1291000
+84,3,XXIII,7,igen,1939,közepes,hőszivattyú,nem,584000
+41,2,VIII,3,igen,1941,felújított,gáz cirkó,igen,1289000
+40,2,XIX,6,igen,1929,felújítandó,hőszivattyú,igen,753000
+41,2,XIV,8,igen,1985,újszerű,elektromos,nem,945000
+66,2,XVIII,9,nem,1983,felújított,távfűtés,igen,545000
+93,4,XV,2,igen,1893,újszerű,gáz cirkó,nem,809000
+52,1,XV,7,igen,,felújított,gáz cirkó,igen,876000
